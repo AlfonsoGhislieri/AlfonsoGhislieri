@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-🤔 Portfolio website: https://alfonsoghislieri.github.io/Portfolio/ </br>
 💬 My blog: https://medium.com/@Alfonso_Ghislieri
